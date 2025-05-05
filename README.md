@@ -49,4 +49,4 @@ This project focuses on classifying bone fractures from X-ray images into 10 dis
 - TensorFlow/Keras  
 - NumPy  
 - Matplotlib  
-- Google Colab (https://colab.research.google.com/drive/1E1bzhOLwPVGLkPx4S-p8cdKOP7zQ-Ahf?authuser=1)
+- Google Colab (https://colab.research.google.com/drive/1E1bzhOLwPVGLkPx4S-p8cdKOP7zQ-Ahf?usp=sharing)
