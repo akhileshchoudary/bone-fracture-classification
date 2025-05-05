@@ -5,7 +5,7 @@ A deep learning project using Convolutional Neural Networks (CNN) to classify bo
 This project focuses on classifying bone fractures from X-ray images into 10 distinct categories using deep learning. I explore two neural network architectures: a Multi-Layer Perceptron (MLP) and a Convolutional Neural Network (CNN), leveraging TensorFlow and Keras to build, train, and evaluate the models. The goal is to automatically identify fracture types, which can assist in medical diagnostics.
 
 ## Dataset
-- **Source**: The dataset is stored in Google Drive under the directory `/content/drive/My Drive/Bone Break Classification`.
+- **Source**: The dataset is stored in Kaggle.
 - **Structure**: It contains 1101 X-ray images across 10 subdirectories, each representing a fracture type:  
   - Avulsion fracture  
   - Comminuted fracture  
